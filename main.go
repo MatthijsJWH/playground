@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/graphql-go/handler"
-	"github.com/graphql-go/relay/examples/starwars"
+	"./starwars"
 )
 
 func main() {
